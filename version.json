@@ -1,6 +1,6 @@
 {
   "version": "1.1.1",
-  "download_url": "https://drive.google.com/uc?export=download&id=1Gh_Q4p1QuwsNrb6mC2iw6oU5geLcOsE0",
+  "download_url": "https://github.com/jesussalazr5/FiscalCheck-Version/releases/download/v1.1.1/Fiscal.Check.v1.1.1.exe",
   "release_date": "2025-12-10",
   "changelog": "• 🐛 FIX: Banco de dados agora é salvo corretamente.\n• Estabilidade no Backend."
 }
